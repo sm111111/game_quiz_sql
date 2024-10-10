@@ -29,7 +29,7 @@ function loadQuiz() {
         <td class="answer">${currentQuizData.a}</td>
     </tr>
     <tr>
-        <td><input type="radio" name="answer" value="b"></td>
+        <td><input type="radio" name="answer" value="b" class="input"></td>
         <td class="answer">${currentQuizData.b}</td>
     </tr>
     <tr>
