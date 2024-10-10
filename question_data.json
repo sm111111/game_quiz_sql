@@ -1,0 +1,234 @@
+[
+    {
+        "question": "What is MySQL?",
+        "a": "A type of database",
+        "b": "A programming language",
+        "c": "A web server",
+        "d": "An operating system",
+        "correct": "a"
+    },
+    {
+        "question": "Which command is used to create a new database?",
+        "a": "CREATE DATABASE",
+        "b": "NEW DATABASE",
+        "c": "ADD DATABASE",
+        "d": "MAKE DATABASE",
+        "correct": "a"
+    },
+    {
+        "question": "What is a primary key?",
+        "a": "A unique identifier for a record",
+        "b": "A field that allows duplicates",
+        "c": "A foreign key",
+        "d": "An index",
+        "correct": "a"
+    },
+    {
+        "question": "What is the purpose of the JOIN clause?",
+        "a": "To combine rows from two or more tables",
+        "b": "To aggregate data",
+        "c": "To filter records",
+        "d": "To create indexes",
+        "correct": "a"
+    },
+    {
+        "question": "Which command is used to insert data into a table?",
+        "a": "INSERT INTO",
+        "b": "ADD TO",
+        "c": "PUT INTO",
+        "d": "INSERT DATA",
+        "correct": "a"
+    },
+    {
+        "question": "What is a trigger?",
+        "a": "A stored procedure",
+        "b": "A rule that executes automatically",
+        "c": "A data type",
+        "d": "An index type",
+        "correct": "b"
+    },
+    {
+        "question": "Which command is used to set user permissions?",
+        "a": "GRANT",
+        "b": "ALLOW",
+        "c": "PERMIT",
+        "d": "ENABLE",
+        "correct": "a"
+    },
+    {
+        "question": "What does the ROLLBACK command do?",
+        "a": "Commits a transaction",
+        "b": "Undoes a transaction",
+        "c": "Starts a transaction",
+        "d": "Creates a backup",
+        "correct": "b"
+    },
+    {
+        "question": "Which command is used to show all databases?",
+        "a": "SHOW DATABASES",
+        "b": "LIST DATABASES",
+        "c": "DISPLAY DATABASES",
+        "d": "VIEW DATABASES",
+        "correct": "a"
+    },
+    {
+        "question": "What is the purpose of the INDEX?",
+        "a": "To speed up queries",
+        "b": "To store data",
+        "c": "To create a backup",
+        "d": "To normalize data",
+        "correct": "a"
+    },
+    {
+        "question": "Which clause is used to specify conditions on groups?",
+        "a": "WHERE",
+        "b": "HAVING",
+        "c": "GROUP BY",
+        "d": "FILTER",
+        "correct": "b"
+    },
+    {
+        "question": "What is the maximum length of a VARCHAR column?",
+        "a": "255 characters",
+        "b": "65,535 characters",
+        "c": "16 characters",
+        "d": "10,000 characters",
+        "correct": "b"
+    },
+    {
+        "question": "Which MySQL statement is used to alter a table's structure?",
+        "a": "CHANGE TABLE",
+        "b": "ALTER TABLE",
+        "c": "MODIFY TABLE",
+        "d": "UPDATE TABLE",
+        "correct": "b"
+    },
+    {
+        "question": "What does the JSON data type store?",
+        "a": "Text",
+        "b": "Binary data",
+        "c": "JSON-formatted data",
+        "d": "Numeric data",
+        "correct": "c"
+    },
+    {
+        "question": "Which function is used to get the current date?",
+        "a": "NOW()",
+        "b": "CURRENT_DATE()",
+        "c": "GETDATE()",
+        "d": "DATE()",
+        "correct": "a"
+    },
+    {
+        "question": "What is the purpose of the LIMIT clause?",
+        "a": "To restrict the number of records returned",
+        "b": "To increase the number of records returned",
+        "c": "To filter records",
+        "d": "To sort records",
+        "correct": "a"
+    },
+    {
+        "question": "Which command is used to grant permissions to a user?",
+        "a": "ALLOW",
+        "b": "GRANT",
+        "c": "PERMIT",
+        "d": "ENABLE",
+        "correct": "b"
+    },
+    {
+        "question": "What does the SQL command 'SELECT * FROM table_name' do?",
+        "a": "Selects no records",
+        "b": "Selects all columns and all records",
+        "c": "Selects specific columns",
+        "d": "Selects all records without columns",
+        "correct": "b"
+    },
+    {
+        "question": "What is a data model?",
+        "a": "A representation of data structure",
+        "b": "A database schema",
+        "c": "A programming language",
+        "d": "An SQL command",
+        "correct": "a"
+    },
+    {
+        "question": "What does the EXISTS keyword do?",
+        "a": "Checks for the existence of a row",
+        "b": "Checks for the existence of a column",
+        "c": "Checks for the existence of a table",
+        "d": "Checks for the existence of a database",
+        "correct": "a"
+    },
+    {
+        "question": "Which function is used to convert a string to lowercase?",
+        "a": "LOWER()",
+        "b": "LCASE()",
+        "c": "TO_LOWER()",
+        "d": "Both a and b",
+        "correct": "d"
+    },
+    {
+        "question": "Which of the following is a non-aggregate function?",
+        "a": "SUM()",
+        "b": "COUNT()",
+        "c": "AVG()",
+        "d": "UPPER()",
+        "correct": "d"
+    },
+    {
+        "question": "What is a scalar function?",
+        "a": "A function that returns a single value",
+        "b": "A function that returns a set of values",
+        "c": "A function that aggregates data",
+        "d": "A function that compares values",
+        "correct": "a"
+    },
+    {
+        "question": "What does the SQL command 'DROP DATABASE database_name' do?",
+        "a": "Deletes the database structure and data",
+        "b": "Deletes the database data only",
+        "c": "Deletes the database structure only",
+        "d": "Archives the database",
+        "correct": "a"
+    },
+    {
+        "question": "Which command is used to optimize a table?",
+        "a": "OPTIMIZE TABLE",
+        "b": "IMPROVE TABLE",
+        "c": "ENHANCE TABLE",
+        "d": "REFRESH TABLE",
+        "correct": "a"
+    },
+    {
+        "question": "What is the purpose of the ORDER BY clause?",
+        "a": "To group records",
+        "b": "To sort records",
+        "c": "To filter records",
+        "d": "To join tables",
+        "correct": "b"
+    },
+    {
+        "question": "What is the maximum size of a MySQL database?",
+        "a": "10 GB",
+        "b": "64 TB",
+        "c": "1 PB",
+        "d": "No limit",
+        "correct": "b"
+    },
+    {
+        "question": "Which function returns the number of characters in a string?",
+        "a": "LENGTH()",
+        "b": "SIZE()",
+        "c": "CHAR_COUNT()",
+        "d": "COUNT()",
+        "correct": "a"
+    },
+    {
+        "question": "What does the REPLACE function do?",
+        "a": "Replaces substrings in a string",
+        "b": "Replaces a table",
+        "c": "Replaces a database",
+        "d": "Replaces data types",
+        "correct": "a"
+    }
+]
